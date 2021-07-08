@@ -1,0 +1,18 @@
+{
+  "minecraft": {
+    "version": "1.16.5",
+    "modLoaders": [
+      {
+        "id": "fabric-0.11.6",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "1.0.0",
+  "author": "Austin,Mark,Kriebel,Hex",
+  "name": "One_Two_Week_Adventure_S2",
+  "files": []
+}
