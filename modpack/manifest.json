@@ -136,7 +136,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3358614,
+      "fileID": 3386463,
       "required": true,
       "__meta": {
         "name": "Fabric API",
@@ -1074,7 +1074,7 @@
     },
     {
       "projectID": 406481,
-      "fileID": 3359229,
+      "fileID": 3381993,
       "required": true,
       "__meta": {
         "name": "Realistic Bakery Products [Fabric]",
@@ -1140,7 +1140,7 @@
     },
     {
       "projectID": 415339,
-      "fileID": 3106070,
+      "fileID": 3383183,
       "required": true,
       "__meta": {
         "name": "Art of Alchemy: Memoriam",
@@ -1186,7 +1186,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3375942,
+      "fileID": 3385659,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
