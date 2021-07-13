@@ -103,6 +103,18 @@
       }
     },
     {
+      "projectID": 292908,
+      "fileID": 3302815,
+      "required": true,
+      "__meta": {
+        "name": "Illuminations 🔥",
+        "explicit": true,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 298813,
       "fileID": 3198602,
       "required": true,
@@ -242,6 +254,16 @@
       }
     },
     {
+      "projectID": 317514,
+      "fileID": 3367058,
+      "required": true,
+      "__meta": {
+        "name": "Mouse Wheelie (Fabric)",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 318036,
       "fileID": 3181191,
       "required": true,
@@ -301,6 +323,19 @@
         "name": "Pehkui",
         "explicit": false,
         "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 320215,
+      "fileID": 3332780,
+      "required": true,
+      "__meta": {
+        "name": "Adorn",
+        "explicit": true,
+        "dependencies": [
+          308769,
           306612
         ]
       }
@@ -398,6 +433,18 @@
       }
     },
     {
+      "projectID": 351393,
+      "fileID": 3301560,
+      "required": true,
+      "__meta": {
+        "name": "Horse Stats Vanilla (Fabric)",
+        "explicit": true,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 352791,
       "fileID": 3126245,
       "required": true,
@@ -462,6 +509,16 @@
       }
     },
     {
+      "projectID": 361579,
+      "fileID": 3337642,
+      "required": true,
+      "__meta": {
+        "name": "spark",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 363027,
       "fileID": 2993705,
       "required": true,
@@ -506,6 +563,19 @@
         "dependencies": [
           306612,
           318160
+        ]
+      }
+    },
+    {
+      "projectID": 369122,
+      "fileID": 3350259,
+      "required": true,
+      "__meta": {
+        "name": "Better Enchanted Books (Fabric)",
+        "explicit": true,
+        "dependencies": [
+          319057,
+          306612
         ]
       }
     },
@@ -785,6 +855,16 @@
       }
     },
     {
+      "projectID": 396245,
+      "fileID": 3212546,
+      "required": true,
+      "__meta": {
+        "name": "RandomPatches (Fabric)",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 396461,
       "fileID": 3124604,
       "required": true,
@@ -901,18 +981,6 @@
       }
     },
     {
-      "projectID": 398780,
-      "fileID": 3373514,
-      "required": true,
-      "__meta": {
-        "name": "Library of Exile",
-        "explicit": false,
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 399309,
       "fileID": 3256690,
       "required": true,
@@ -1001,21 +1069,6 @@
         "dependencies": [
           306612,
           373261
-        ]
-      }
-    },
-    {
-      "projectID": 404445,
-      "fileID": 3372725,
-      "required": true,
-      "__meta": {
-        "name": "Dungeons of Exile",
-        "explicit": true,
-        "dependencies": [
-          306612,
-          398780,
-          373261,
-          318449
         ]
       }
     },
@@ -1132,18 +1185,6 @@
       }
     },
     {
-      "projectID": 417391,
-      "fileID": 3138837,
-      "required": true,
-      "__meta": {
-        "name": "Fedora",
-        "explicit": true,
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 419697,
       "fileID": 3375942,
       "required": true,
@@ -1245,6 +1286,16 @@
       }
     },
     {
+      "projectID": 430398,
+      "fileID": 3341471,
+      "required": true,
+      "__meta": {
+        "name": "Asbestos Removal",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 431135,
       "fileID": 3323935,
       "required": true,
@@ -1252,6 +1303,18 @@
         "name": "Go Fish",
         "explicit": true,
         "dependencies": []
+      }
+    },
+    {
+      "projectID": 431323,
+      "fileID": 3268996,
+      "required": true,
+      "__meta": {
+        "name": "Eric's Retail",
+        "explicit": true,
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -1273,6 +1336,16 @@
       "required": true,
       "__meta": {
         "name": "Additional Bars [FABRIC]",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
+      "projectID": 432120,
+      "fileID": 3341299,
+      "required": true,
+      "__meta": {
+        "name": "Gizmos (Fabric)",
         "explicit": true,
         "dependencies": []
       }
@@ -1384,6 +1457,60 @@
       }
     },
     {
+      "projectID": 438495,
+      "fileID": 3373832,
+      "required": true,
+      "__meta": {
+        "name": "FTB Library (Fabric)",
+        "explicit": false,
+        "dependencies": [
+          419697
+        ]
+      }
+    },
+    {
+      "projectID": 438496,
+      "fileID": 3385406,
+      "required": true,
+      "__meta": {
+        "name": "FTB Quests (Fabric)",
+        "explicit": true,
+        "dependencies": [
+          438497,
+          438495,
+          306612,
+          419697,
+          438500
+        ]
+      }
+    },
+    {
+      "projectID": 438497,
+      "fileID": 3373834,
+      "required": true,
+      "__meta": {
+        "name": "FTB Teams (Fabric)",
+        "explicit": false,
+        "dependencies": [
+          306612,
+          419697
+        ]
+      }
+    },
+    {
+      "projectID": 438500,
+      "fileID": 3376818,
+      "required": true,
+      "__meta": {
+        "name": "Item Filters (Fabric)",
+        "explicit": false,
+        "dependencies": [
+          306612,
+          419697
+        ]
+      }
+    },
+    {
       "projectID": 439627,
       "fileID": 3179696,
       "required": true,
@@ -1404,6 +1531,18 @@
         "name": "Time in a Bottle (Fabric)",
         "explicit": true,
         "dependencies": []
+      }
+    },
+    {
+      "projectID": 440979,
+      "fileID": 3356120,
+      "required": true,
+      "__meta": {
+        "name": "WTHIT",
+        "explicit": true,
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -1577,16 +1716,6 @@
       }
     },
     {
-      "projectID": 472772,
-      "fileID": 3320941,
-      "required": true,
-      "__meta": {
-        "name": "DashLoader",
-        "explicit": true,
-        "dependencies": []
-      }
-    },
-    {
       "projectID": 473508,
       "fileID": 3285717,
       "required": true,
@@ -1638,6 +1767,19 @@
       }
     },
     {
+      "projectID": 486971,
+      "fileID": 3347683,
+      "required": true,
+      "__meta": {
+        "name": "VoidZ",
+        "explicit": true,
+        "dependencies": [
+          390991,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 494751,
       "fileID": 3354938,
       "required": true,
@@ -1647,6 +1789,16 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 496150,
+      "fileID": 3360005,
+      "required": true,
+      "__meta": {
+        "name": "DeathLog",
+        "explicit": true,
+        "dependencies": []
       }
     }
   ]
