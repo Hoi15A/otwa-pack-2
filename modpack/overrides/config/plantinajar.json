@@ -1,0 +1,6 @@
+{
+  "dropItems": true,
+  "growthTime": 300,
+  "perItemGrowthTimes": {},
+  "growthModifierRegexPatterns": {}
+}
