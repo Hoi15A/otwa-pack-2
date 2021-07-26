@@ -1604,16 +1604,6 @@
       }
     },
     {
-      "projectID": 448130,
-      "fileID": 3216640,
-      "required": true,
-      "__meta": {
-        "name": "[Fabric] Chisel Decor",
-        "explicit": true,
-        "dependencies": []
-      }
-    },
-    {
       "projectID": 448274,
       "fileID": 3301522,
       "required": true,
