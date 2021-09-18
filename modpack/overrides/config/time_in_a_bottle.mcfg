@@ -1,0 +1,13 @@
+// How many ticks must have passed for a Time in a Bottle gain 1 second.
+// Default: 20
+TIME_SECOND=20
+
+// How fast random ticks should tick with the Time in a Bottle Effect.
+// Default: 15
+RANDOM_TICK=15
+
+// Max amount of ticks inside of a Time in a Bottle.
+// Default: 622080000
+// 12 Hours
+MAX_TIME=864000
+

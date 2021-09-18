@@ -27,7 +27,7 @@
     },
     {
       "projectID": 223794,
-      "fileID": 3379707,
+      "fileID": 3418087,
       "required": true,
       "__meta": {
         "name": "Applied Energistics 2",
@@ -37,7 +37,7 @@
     },
     {
       "projectID": 227795,
-      "fileID": 3183791,
+      "fileID": 3446112,
       "required": true,
       "__meta": {
         "name": "Antique Atlas",
@@ -90,6 +90,16 @@
       }
     },
     {
+      "projectID": 252848,
+      "fileID": 3404859,
+      "required": true,
+      "__meta": {
+        "name": "Nature's Compass",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 286328,
       "fileID": 3197436,
       "required": true,
@@ -136,7 +146,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3386463,
+      "fileID": 3454917,
       "required": true,
       "__meta": {
         "name": "Fabric API",
@@ -146,7 +156,7 @@
     },
     {
       "projectID": 308702,
-      "fileID": 3268909,
+      "fileID": 3462077,
       "required": true,
       "__meta": {
         "name": "Mod Menu",
@@ -156,7 +166,7 @@
     },
     {
       "projectID": 308769,
-      "fileID": 3330753,
+      "fileID": 3439050,
       "required": true,
       "__meta": {
         "name": "Fabric Language Kotlin",
@@ -166,7 +176,7 @@
     },
     {
       "projectID": 308777,
-      "fileID": 3209771,
+      "fileID": 3397865,
       "required": true,
       "__meta": {
         "name": "Traverse",
@@ -198,7 +208,7 @@
     },
     {
       "projectID": 309275,
-      "fileID": 3173974,
+      "fileID": 3392902,
       "required": true,
       "__meta": {
         "name": "Fabric Language Scala",
@@ -265,7 +275,7 @@
     },
     {
       "projectID": 317514,
-      "fileID": 3367058,
+      "fileID": 3434240,
       "required": true,
       "__meta": {
         "name": "Mouse Wheelie (Fabric)",
@@ -281,18 +291,6 @@
         "name": "Iron Furnaces [FABRIC] ",
         "explicit": true,
         "dependencies": []
-      }
-    },
-    {
-      "projectID": 318160,
-      "fileID": 3103137,
-      "required": true,
-      "__meta": {
-        "name": "Cotton",
-        "explicit": false,
-        "dependencies": [
-          306612
-        ]
       }
     },
     {
@@ -327,7 +325,7 @@
     },
     {
       "projectID": 319596,
-      "fileID": 3351974,
+      "fileID": 3457608,
       "required": true,
       "__meta": {
         "name": "Pehkui",
@@ -339,7 +337,7 @@
     },
     {
       "projectID": 320215,
-      "fileID": 3332780,
+      "fileID": 3460629,
       "required": true,
       "__meta": {
         "name": "Adorn",
@@ -555,25 +553,12 @@
     },
     {
       "projectID": 363949,
-      "fileID": 3357935,
+      "fileID": 3433482,
       "required": true,
       "__meta": {
         "name": "The Bumblezone (Fabric)",
         "explicit": true,
         "dependencies": []
-      }
-    },
-    {
-      "projectID": 364507,
-      "fileID": 3249405,
-      "required": true,
-      "__meta": {
-        "name": "Dynocaps",
-        "explicit": true,
-        "dependencies": [
-          306612,
-          318160
-        ]
       }
     },
     {
@@ -725,19 +710,6 @@
       }
     },
     {
-      "projectID": 390675,
-      "fileID": 3284274,
-      "required": true,
-      "__meta": {
-        "name": "Culinaire",
-        "explicit": true,
-        "dependencies": [
-          306612,
-          399309
-        ]
-      }
-    },
-    {
       "projectID": 390991,
       "fileID": 3340915,
       "required": true,
@@ -751,7 +723,7 @@
     },
     {
       "projectID": 391257,
-      "fileID": 3295939,
+      "fileID": 3444335,
       "required": true,
       "__meta": {
         "name": "Haema",
@@ -764,7 +736,7 @@
     },
     {
       "projectID": 391429,
-      "fileID": 3189140,
+      "fileID": 3424696,
       "required": true,
       "__meta": {
         "name": "Cinderscapes",
@@ -800,6 +772,16 @@
       }
     },
     {
+      "projectID": 392015,
+      "fileID": 3329930,
+      "required": true,
+      "__meta": {
+        "name": "Eldritch Mobs",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 393236,
       "fileID": 3362798,
       "required": true,
@@ -823,6 +805,16 @@
       }
     },
     {
+      "projectID": 394362,
+      "fileID": 3367765,
+      "required": true,
+      "__meta": {
+        "name": "Decimal Coins",
+        "explicit": true,
+        "dependencies": []
+      }
+    },
+    {
       "projectID": 394903,
       "fileID": 3070600,
       "required": true,
@@ -836,7 +828,7 @@
     },
     {
       "projectID": 394915,
-      "fileID": 3375181,
+      "fileID": 3403216,
       "required": true,
       "__meta": {
         "name": "Bewitchment",
@@ -912,7 +904,7 @@
     },
     {
       "projectID": 397434,
-      "fileID": 3215832,
+      "fileID": 3456127,
       "required": true,
       "__meta": {
         "name": "Polymorph (Fabric)",
@@ -953,19 +945,6 @@
       }
     },
     {
-      "projectID": 398614,
-      "fileID": 3259847,
-      "required": true,
-      "__meta": {
-        "name": "Deep Mob Learning: Refabricated",
-        "explicit": true,
-        "dependencies": [
-          308769,
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 398667,
       "fileID": 3371313,
       "required": true,
@@ -979,7 +958,7 @@
     },
     {
       "projectID": 398676,
-      "fileID": 3104836,
+      "fileID": 3402300,
       "required": true,
       "__meta": {
         "name": "Blockshifter [Fabric]",
@@ -1051,7 +1030,7 @@
     },
     {
       "projectID": 402750,
-      "fileID": 3132252,
+      "fileID": 3397633,
       "required": true,
       "__meta": {
         "name": "[Fabric] Iron Chests",
@@ -1118,12 +1097,12 @@
     },
     {
       "projectID": 410902,
-      "fileID": 3350982,
+      "fileID": 3405668,
       "required": true,
       "__meta": {
         "name": "Fabric Waystones",
         "explicit": true,
-        "dependencies": []
+        "dependencies": [] 
       }
     },
     {
@@ -1132,6 +1111,18 @@
       "required": true,
       "__meta": {
         "name": "Ignis Fatuus",
+        "explicit": true,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 412182,
+      "fileID": 3294341,
+      "required": true,
+      "__meta": {
+        "name": "Biome Makeover",
         "explicit": true,
         "dependencies": [
           306612
@@ -1196,7 +1187,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3385659,
+      "fileID": 3462012,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -1217,21 +1208,8 @@
       }
     },
     {
-      "projectID": 421512,
-      "fileID": 3328060,
-      "required": true,
-      "__meta": {
-        "name": "Mechanix",
-        "explicit": true,
-        "dependencies": [
-          306612,
-          444498
-        ]
-      }
-    },
-    {
       "projectID": 421649,
-      "fileID": 3303399,
+      "fileID": 3432140,
       "required": true,
       "__meta": {
         "name": "YUNG's API (Fabric)",
@@ -1251,16 +1229,6 @@
         "dependencies": [
           306612
         ]
-      }
-    },
-    {
-      "projectID": 424526,
-      "fileID": 3202541,
-      "required": true,
-      "__meta": {
-        "name": "Mechanical Tech",
-        "explicit": true,
-        "dependencies": []
       }
     },
     {
@@ -1317,7 +1285,7 @@
     },
     {
       "projectID": 431323,
-      "fileID": 3268996,
+      "fileID": 3408245,
       "required": true,
       "__meta": {
         "name": "Eric's Retail",
@@ -1352,7 +1320,7 @@
     },
     {
       "projectID": 432120,
-      "fileID": 3178856,
+      "fileID": 3443254,
       "required": true,
       "__meta": {
         "name": "Gizmos (Fabric)",
@@ -1372,7 +1340,7 @@
     },
     {
       "projectID": 433538,
-      "fileID": 3218841,
+      "fileID": 3438305,
       "required": true,
       "__meta": {
         "name": "Somnus API",
@@ -1452,7 +1420,7 @@
     },
     {
       "projectID": 438365,
-      "fileID": 3347210,
+      "fileID": 3447565,
       "required": true,
       "__meta": {
         "name": "Bosses of Mass Destruction",
@@ -1468,7 +1436,7 @@
     },
     {
       "projectID": 438495,
-      "fileID": 3373832,
+      "fileID": 3456643,
       "required": true,
       "__meta": {
         "name": "FTB Library (Fabric)",
@@ -1480,7 +1448,7 @@
     },
     {
       "projectID": 438496,
-      "fileID": 3385406,
+      "fileID": 3458485,
       "required": true,
       "__meta": {
         "name": "FTB Quests (Fabric)",
@@ -1496,7 +1464,7 @@
     },
     {
       "projectID": 438497,
-      "fileID": 3373834,
+      "fileID": 3460042,
       "required": true,
       "__meta": {
         "name": "FTB Teams (Fabric)",
@@ -1545,7 +1513,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3356120,
+      "fileID": 3462901,
       "required": true,
       "__meta": {
         "name": "WTHIT",
@@ -1562,18 +1530,6 @@
       "__meta": {
         "name": "Companion bats",
         "explicit": true,
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 444498,
-      "fileID": 3328057,
-      "required": true,
-      "__meta": {
-        "name": "FlytreLib",
-        "explicit": false,
         "dependencies": [
           306612
         ]
@@ -1605,7 +1561,7 @@
     },
     {
       "projectID": 448274,
-      "fileID": 3301522,
+      "fileID": 3452099,
       "required": true,
       "__meta": {
         "name": "Customizable Elytra (Fabric)",
@@ -1640,7 +1596,7 @@
     },
     {
       "projectID": 456151,
-      "fileID": 3362183,
+      "fileID": 3420681,
       "required": true,
       "__meta": {
         "name": "Things [Fabric]",
@@ -1690,16 +1646,13 @@
       }
     },
     {
-      "projectID": 465336,
-      "fileID": 3358232,
+      "projectID": 462672,
+      "fileID": 3349860,
       "required": true,
       "__meta": {
-        "name": "Terrarian Slimes",
+        "name": "CC: Restitched",
         "explicit": true,
-        "dependencies": [
-          306612,
-          308769
-        ]
+        "dependencies": []
       }
     },
     {
@@ -1781,7 +1734,7 @@
     },
     {
       "projectID": 494751,
-      "fileID": 3354938,
+      "fileID": 3431201,
       "required": true,
       "__meta": {
         "name": "Grizzly bear Mod",
