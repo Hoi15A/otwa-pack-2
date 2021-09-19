@@ -1,0 +1,37 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Status Infused Snow Golems",
+            "color": "yellow",
+            "bold": true
+        },
+        "description": {
+            "text": "Infuse a frosty friend with a potion effect!"
+        },
+        "icon": {
+            "item": "minecraft:carved_pumpkin"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "usePotionSnowGolem": {
+            "trigger": "minecraft:player_interacted_with_entity",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:potion"
+                },
+                "entity": {
+                    "type": "minecraft:snow_golem"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "experience": 200
+    },
+    "parent": "otwa:gizmos"
+}
